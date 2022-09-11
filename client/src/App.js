@@ -1,4 +1,5 @@
 import React from 'react';
+<<<<<<< HEAD
 import { Container, AppBar, Typography, Grow, Grid } from '@material-ui/core';
 
 const App = () => {
@@ -10,6 +11,14 @@ const App = () => {
                 
             </AppBar>
         </Container>
+=======
+
+const App = () => {
+    return (
+        <div>
+            <h1>APP!!!</h1>
+        </div>
+>>>>>>> 23c8cc732c753b07ecb7458d1c5ccfe3d09620a5
     );
 }
 
